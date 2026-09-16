@@ -3,6 +3,6 @@ using namespace std;
 
 int main()
 {
-    cout << "Wrong System Name" << endl;
+    cout << "Student Grades System" << endl;
     return 0;
 }
