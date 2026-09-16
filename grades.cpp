@@ -2,7 +2,7 @@
 using namespace std;
 void printStatus()
 {
-	cout << "Status: Passed" << endl;
+	cout << "Status: Passed!" << endl;
 }
 void printGrade()
 {
